@@ -57,7 +57,7 @@
                         </td>
                         <td>
                             <a href="/match/${match.id}/view" class="btn btn-outline-dark">View</a>
-                            <a href="#" class="btn btn-outline-success">RSVP</a>
+<%--                            <a href="#" class="btn btn-outline-success">RSVP</a>--%>
                         </td>
                     </tr>
                 </c:forEach>
